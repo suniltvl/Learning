@@ -1,5 +1,5 @@
 ---
-title: Home 11
+title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Kids Learning
