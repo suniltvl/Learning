@@ -60,5 +60,3 @@ fields:
   type: text
   hidden: true
   default: home
-pages:
-- index.md
