@@ -10,7 +10,7 @@ fields:
     maxSize: '2'
   default: "/myuploads/2019/01/26/home.jpg"
 - type: text
-  label: Layoutd
-  name: layoutd
-  description: dsfsdfds
+  label: Layout
+  name: layout
+  description: ''
   hidden: true
