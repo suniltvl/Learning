@@ -14,7 +14,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: Learning For Kids
+textline: ''
 hero_button:
   text: Learn more
   href: "/about"
