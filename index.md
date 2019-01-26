@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/myuploads/2019/01/26/home.jpg"
+banner_image: "/myuploads/2019/01/26/banner.jpg"
 layout: home
 heading: Kids Learning
 partners: []
