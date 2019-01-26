@@ -3,6 +3,9 @@ label: Learning_Tmpl
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: titile
+  label: Titile
 - type: file
   name: home_banner
   label: Banner
