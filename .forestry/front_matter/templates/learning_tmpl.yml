@@ -1,19 +1,26 @@
 ---
 label: Learning_Tmpl
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: text
-  name: titile
-  label: Titile
-- type: file
-  name: home_banner
-  label: Banner
+  name: title
+  label: Title
   config:
-    maxSize: '2'
-  default: "/myuploads/2019/01/26/home.jpg"
+    required: true
+- type: textarea
+  name: description
+  label: Description
+  description: A short description of the page
+  config:
+    required: true
+- type: datetime
+  name: publish_date
+  label: Publish Date
+  config:
+    required: true
 - type: text
-  label: Layout
   name: layout
-  description: ''
+  label: layout
   hidden: true
+  default: post
