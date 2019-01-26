@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/myuploads/2019/01/26/home.jpg"
 layout: landing-page
 heading: Kids Learning
 partners:
@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Learning For Kids
 hero_button:
   text: Learn more
   href: "/about"
