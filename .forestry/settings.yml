@@ -4,6 +4,14 @@ auto_deploy: true
 admin_path: admin
 webhook_url: 
 sections:
+- type: directory
+  path: sub_eng
+  label: English
+  create: all
+  match: "*"
+  templates:
+  - project
+  - landing-page
 - type: heading
   label: Content
 - type: jekyll-posts
