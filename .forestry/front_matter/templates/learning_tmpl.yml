@@ -1,0 +1,11 @@
+---
+label: Learning_Tmpl
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: home_banner
+  label: Banner
+  config:
+    maxSize: '2'
+  default: "/myuploads/2019/01/26/home.jpg"

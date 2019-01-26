@@ -1,7 +1,7 @@
 ---
 title: Home
-banner_image: "/myuploads/2019/01/26/home.jpg"
-layout: landing-page
+banner_image: "/myuploads/2019/01/26/banner.jpg"
+layout: home
 heading: Kids Learning
 partners: []
 services:
@@ -29,10 +29,6 @@ menu:
 fdsfsdfsdfdsfdsfdsf
 
 s
-
-fds
-
-f
 
 sdf
 
