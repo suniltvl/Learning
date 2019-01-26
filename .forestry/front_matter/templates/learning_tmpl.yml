@@ -17,3 +17,5 @@ fields:
   name: layout
   description: ''
   hidden: true
+- type: textarea
+- type: include
