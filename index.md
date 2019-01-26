@@ -20,6 +20,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+home_banner: "/myuploads/2019/01/26/home.jpg"
 menu:
   navigation:
     identifier: _index
