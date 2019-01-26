@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: "/myuploads/2019/01/26/home.jpg"
-layout: landing-page
+layout: home
 heading: Kids Learning
 partners: []
 services:
