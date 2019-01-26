@@ -2,7 +2,7 @@
 heading: ''
 sub_heading: ''
 layout: home
-title: English
+title: Eng
 banner_image: ''
 hero_button:
   text: ''
