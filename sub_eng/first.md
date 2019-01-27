@@ -11,9 +11,5 @@ sub_heading: ddd
 banner_image: ''
 slug: ''
 date: 2019-01-26 21:01:21 +0530
-menu:
-  navigation:
-    weight: 2
-    title: Eng
 
 ---
