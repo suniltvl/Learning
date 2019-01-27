@@ -81,5 +81,4 @@ fields:
   default: home
 pages:
 - home-copy.md
-- english.md
 - index.md
